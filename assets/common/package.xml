@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="0ci0iwmf" jpegQuality="80" compressPNG="true">
   <resources>
-    <image id="lv0w0" name="btn_start2.png" path="/images/"/>
-    <image id="lv0w1" name="btn_start1.png" path="/images/"/>
+    <image id="lv0w0" name="btn_1_2.png" path="/images/"/>
+    <image id="lv0w1" name="btn_1_1.png" path="/images/"/>
+    <component id="nynw5" name="btn_1.xml" path="/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

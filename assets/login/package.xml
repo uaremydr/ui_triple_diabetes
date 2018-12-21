@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0obbefo5" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="nynw0" name="img_bg.png" path="/images/"/>
+    <component id="nynw1" name="GameLoginPanel.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

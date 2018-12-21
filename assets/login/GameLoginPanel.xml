@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" bgColorEnabled="true">
+  <displayList>
+    <image id="n0_nynw" name="n0" src="nynw0" fileName="images/img_bg.png" xy="0,352"/>
+    <component id="n1_nynw" name="n1" src="nynw5" fileName="btn_1.xml" pkg="0ci0iwmf" xy="480,1678">
+      <Button title="开始游戏" titleFontSize="20"/>
+    </component>
+  </displayList>
+</component>
